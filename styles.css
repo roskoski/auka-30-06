@@ -19,6 +19,7 @@ body{
     display: block;
     margin: 20px 0;
 }
+
 .botoes button{
     padding: 10px 20px;
     margin: 5px;
@@ -27,14 +28,17 @@ body{
     border: none;
     cursor: pointer;
 }
+
 #aumentar{
     background-color: #4caf50;
     color: white;
 }
+
 #diminuir{
     background-color: #f44336;
     color: white;
 }
+
 #resetar{
     background-color: #697d88;
     color: white;
